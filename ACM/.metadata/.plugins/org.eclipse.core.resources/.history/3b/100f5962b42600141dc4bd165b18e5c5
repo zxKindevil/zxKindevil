@@ -1,0 +1,26 @@
+package hdu2030_ºº×ÖÍ³¼Æ;
+
+import java.util.Scanner;
+
+class Main {
+	public static void main(String args[])
+	{
+		Scanner cin=new Scanner(System.in);
+		int n;
+		n=cin.nextInt();
+		while(cin.hasNext())
+		{
+			String str=cin.next();
+			char[] arych=str.toCharArray();
+			for(i=0;i<arych.length;i++)
+		}
+	}
+	
+	public static boolean isChinese(char str)
+	{
+		boolean ret=true;
+		int x=0x0008;
+		for(i=0;i<)
+		return ret;
+	}
+}
